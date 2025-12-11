@@ -1,0 +1,30 @@
+bold tag <b>
+strrong tag <strong>
+del tag <del>
+    underline tag <u>
+        italised <i>
+  emphasised <em>  
+    abreviation tag<abbr> 
+        super script <sup>
+            subcript tag<sub>  
+            center tag <center> 
+                break tag<br>  
+                image tag <img> src stands for image source, alt stands for alternative text 
+                anchor/link tag <a> href stands for hyperlink refrence target blank will take to a new tagj
+            tr tag stands for table row
+            th stands for table heading 
+
+           // all tags are called formating tags //
+                                next class
+                        table tags
+                    <tr></tr>stands for table row
+                    <th></th>stands for table heading
+                    colspan
+                    rowspan
+                         //forms.html//
+                    open a form tag
+                    things we wil talk about
+                    form,label,input,select&options,textarea,button
+                
+                    TYPES OF INPUT
+                    text,number,email,password,checkbox,radio,file,date-time local
