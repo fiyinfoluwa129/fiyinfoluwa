@@ -1,6 +1,6 @@
-let carlight = prompt("enter the traffic light and i will tell you what to do")
+let carlight = prompt("enter the traffic light and i will tell you when to move")
 
-if(carlight === "red"){
+if(carlight == "red"){
 console.log("stop")
 }else if(carlight == "yellow"){
     console.log("get ready")
